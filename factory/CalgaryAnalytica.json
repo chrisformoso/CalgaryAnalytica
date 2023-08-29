@@ -1,0 +1,9 @@
+{
+	"name": "CalgaryAnalytica",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f86764f3-3c4b-406c-9e54-d45af5efa018",
+		"tenantId": "9b492ba9-618a-43ba-a159-a58b7048648e"
+	}
+}
